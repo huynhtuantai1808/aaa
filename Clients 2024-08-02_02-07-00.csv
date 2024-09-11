@@ -1,0 +1,15 @@
+MAC,Switch Port,Client Name,OS,Manufacturer,IP,VLAN,POE Drawn
+,GigabitEthernet1/0/29,AP00d7.8fad.5180,Cisco IOS Software,cisco AIR-CAP1702I-E-K9,10.79.87.4,NA,15.40W
+,GigabitEthernet1/0/14,AP00f6.6346.c578,Cisco IOS Software,cisco AIR-AP2702I-UXK9,10.79.87.207,NA,16.80W
+,GigabitEthernet1/0/45,CFLD_HMN_C2960X_24P_DATA.cfldvn.com,Cisco IOS Software,cisco WS-C2960X-24PS-L,10.79.87.7,1,0W
+,GigabitEthernet1/0/5,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/21,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/34,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/21,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/10,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/6,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/13,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/2,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/11,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/21,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
+,GigabitEthernet1/0/21,KX-HDV130X,Panasonic SIP Phone,,,NA,0W
